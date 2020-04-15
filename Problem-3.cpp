@@ -1,6 +1,6 @@
 /*
     Problem 3:
-                Largest Prime Factor
+                 Largest Prime Factor
 */
 #include <iostream>
 using namespace std;
